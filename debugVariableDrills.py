@@ -86,20 +86,17 @@ float
 int
 #3)
 #a = True
-#ANSWER:
-boolean
+#ANSWER:boolean
 #4)
 #b = 1
 #ANSWER:
 int
 #5)
 #c = "string"
-#ANSWER:
-string
+#ANSWER:string
 #6)
 #d = False
-#ANSWER:
-boolean
+#ANSWER:boolean
 #7)
 #e = ["a", "b", "c"]
 #ANSWER:
@@ -110,8 +107,7 @@ list
 list
 #9)
 #g = "nope"
-#ANSWER:
-string
+#ANSWER:string
 #10)
 #h = 1.24
 #ANSWER:
